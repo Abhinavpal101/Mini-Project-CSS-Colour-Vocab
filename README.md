@@ -15,7 +15,7 @@
 
 This is the most basic project created in the initial phase of learning HTML, CSS
 
-*Live Project* - 
+*Live Project* - https://abhinavpal101.github.io/Mini-Project-CSS-Colour-Vocab/
 
 ## The Strategic "Why" (Overview)
 
